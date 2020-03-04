@@ -14,10 +14,14 @@ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ 
 
 sudo apt-get update
 ```
+----
+****
+
 
 You can now install Atom using apt-get (or apt on Ubuntu)
 
-# Install Atom
+```javascript
 sudo apt-get install atom
 # Install Atom Beta
 sudo apt-get install atom-beta
+```
