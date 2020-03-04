@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Installing Atom on Debian...
