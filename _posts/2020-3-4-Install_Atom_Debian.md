@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing Atom on Debian...
+title: Installing Atom on Debian
 ---
 You can install Atom on Linux using your distribution's package manager by configuring it to use one of Atom
 official package repositories. This will also enable you to update Atom when new releases are published.
