@@ -26,4 +26,4 @@ Previously James took on a number of roles from engineering, network management 
 
 ### Contact me
 
-###[james.rivers](mailto:james.rivers@outlook.com)
+[james.rivers](mailto:james.rivers@outlook.com)
