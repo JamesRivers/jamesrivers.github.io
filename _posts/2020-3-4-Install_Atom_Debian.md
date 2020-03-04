@@ -7,11 +7,13 @@ official package repositories. This will also enable you to update Atom when new
 
 To install Atom on Debian, Ubuntu, or related distributions, add Atom official package repository to your system by running the following commands -
 
+```javascript
 wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
 
 sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
 
 sudo apt-get update
+```
 
 You can now install Atom using apt-get (or apt on Ubuntu)
 
