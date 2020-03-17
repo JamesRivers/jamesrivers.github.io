@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADC Orion
+title: ADC ORION
 
 
 ADC Orion allows you to synchronize an ADCASDB database with the Versio Automation database (VersioDB).
