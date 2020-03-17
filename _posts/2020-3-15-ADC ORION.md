@@ -1,8 +1,7 @@
 ---
 layout: post
 title: ADC ORION
-
-
+---
 ADC Orion allows you to synchronize an ADCASDB database with the Versio Automation database (VersioDB).
 
 This allows legacy ADC clients to schedule content ingested from Content Portal.There are two types of synchronization
