@@ -48,12 +48,12 @@ Located in the /etc/ssh/ssh_d_config file you will need to edit the port entry.
 made it a really high port number - in this example we will call this 'reallyhighinboundport/tcp'
 in addition to this I made the rule that the new 'reallyhighinboundport/tcp' is coming from specific IP or WAN - this would be my remote server public IP address and that route is going to a specific lan IP my local client machine, an example would be:
 
-58582 from WAN a.b.c.d ONLY to LAN a.b.c.d
+reallyhighinboundport from WAN a.b.c.d ONLY to LAN a.b.c.d
 
 sudo ufw enable
 Firewall is active and enabled on system startup
-add 58582
-sudo ufw allow 58582/tcp
+add reallyhighinboundport
+sudo ufw allow reallyhighinboundport/tcp
 
 
 **Remote Server**
